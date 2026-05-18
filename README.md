@@ -34,7 +34,6 @@ pip install spacy nltk "numpy<2"
 python -m spacy download en_core_web_lg
 ```
 
-(`install.sh` runs the above automatically.)
 
 ### Path setup
 
