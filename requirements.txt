@@ -1,0 +1,17 @@
+transformers==4.37.2
+tokenizers==0.15.1
+sentencepiece==0.1.99
+accelerate==0.21.0
+peft
+bitsandbytes
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.6.13
+shortuuid
+numpy<2
+tqdm
+Pillow
+requests
+typing_extensions
+PyYAML
+scikit-learn==1.2.2
