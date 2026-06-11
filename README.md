@@ -1,7 +1,7 @@
 # MGAP: Manifold-Guided Adaptive Projection
 
 [![Venue: ICML 2026](https://img.shields.io/badge/Venue-ICML%202026-blue.svg)](https://icml.cc/)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)]((https://arxiv.org/abs/2606.09859)) Official implementation for the ICML 2026 paper:
+[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/abs/2606.09859) Official implementation for the ICML 2026 paper:
 **"Mitigating Manifold Departure: Uncertainty-Aware Subspace Rectification for Trustworthy MLLM Decoding"**
 
 MGAP is a geometry-aware, training-free decoding method that mitigates object hallucinations in Multimodal Large Language Models (MLLMs). By constructing a label-free language prior subspace and applying consistency-aware adaptive projection, MGAP suppresses hallucinations without disrupting the model's semantic manifold.
